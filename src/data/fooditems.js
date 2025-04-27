@@ -195,7 +195,7 @@ export const items = [
         price: 30.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://herbivorecucina.com/wp-content/uploads/2021/05/Royal-Falooda-1-1229x1536.jpg'
     },
     {
         id: 'I02',
@@ -204,7 +204,7 @@ export const items = [
         price: 25.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://www.allrecipes.com/thmb/twRCGq6pMOWb1h7mdLgUGFNxPFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/679106-55a505f3926941cd9e473dba6899743a.jpg'
     },
     {
         id: 'I03',
@@ -213,7 +213,7 @@ export const items = [
         price: 12.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://www.allthingsmamma.com/wp-content/uploads/2024/01/death-by-chocolate-hero-4-scaled.jpg'
     },
     {
         id: 'I04',
@@ -222,7 +222,7 @@ export const items = [
         price: 3.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://www.allrecipes.com/thmb/twRCGq6pMOWb1h7mdLgUGFNxPFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/679106-55a505f3926941cd9e473dba6899743a.jpg'
     },
     {
         id: 'I05',
@@ -231,7 +231,7 @@ export const items = [
         price: 3.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://media.istockphoto.com/id/1326143969/photo/bowl-with-vanilla-ice-cream-balls.jpg?s=612x612&w=0&k=20&c=WxEriNEK7yW7F4AWImLQRrpco-R_bdDYEQoyhigu9fc='
     },
     {
         id: 'I06',
@@ -240,6 +240,6 @@ export const items = [
         price: 5.50,
         pcs: 3,
         type: 'Ice Cream',
-        image: 'https://i0.wp.com/theindianclaypot.com/wp-content/uploads/2017/06/FALOODA-SMALLER.jpg?resize=770%2C513'
+        image: 'https://static.vecteezy.com/system/resources/previews/046/100/597/large_2x/a-scoop-of-strawberry-ice-cream-isolated-on-a-white-background-photo.jpg'
     }
 ]
