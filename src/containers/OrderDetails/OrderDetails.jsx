@@ -16,8 +16,8 @@ function OrderDetails() {
     <div className={`${styles.cart} ${show ? styles.show : ''}`}>
       <div className={styles.header}>
         <h2>Current Order ({cartLength})</h2>
-        <button className={styles.settings}><img src='/assets/settings.svg' alt="" /></button>
-        <button className={styles.close} onClick={() => { setShow(!show) }}><img src='/assets/close.svg' alt="" /></button>
+        <button className={styles.settings}><img src='assets/settings.svg' alt="" /></button>
+        <button className={styles.close} onClick={() => { setShow(!show) }}><img src='assets/close.svg' alt="" /></button>
       </div>
       <div className={styles.second_section}>
         {cartItems.length !== 0 ? <div className={styles.cartitems}>
