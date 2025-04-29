@@ -12,7 +12,7 @@ const categoryList = atom({
     default: categories
 })
 
-const categoryType = atom({
+const categoryType = atom({   
     key: 'categorytype',
     default: 'Croissant'
 })

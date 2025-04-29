@@ -28,7 +28,7 @@ function Main() {
                 </div>
                 <div>
                     <SearchBar searchtext={searchtext} setSearchText={setSearchText} />
-                    <button className={styles.filter}><img src='/assets/filter.svg' alt="" /></button>
+                    <button className={styles.filter}><img src='assets/filter.svg' alt="" /></button>
                     <button className={styles.cartimg} onClick={showOrderDetails}><img src='assets/cart.svg' alt="" /><span>{cartLength}</span></button>
                 </div>
             </div>
